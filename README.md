@@ -1,5 +1,6 @@
 # 💫 About Me:
    “Hi there! I’m a Computer Engineer and Web Designer with a passion for creating responsive, user-friendly web applications. Skilled in both front-end and back-end development, I enjoy tackling challenges and constantly expanding my knowledge in modern web technologies. I love collaborating on innovative projects and contributing to open-source. Let’s connect and build something amazing!”
+   i'm currently work on our team https://tira-dev.com/
 
 
 ## 🌐 Socials:
